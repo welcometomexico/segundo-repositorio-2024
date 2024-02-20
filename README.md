@@ -1,2 +1,1 @@
-# segundo-repositorio-2024
-este es el primer repositorio del 2024 de el modul 2 del prep course de henry
+Este repositorio es una prueba para aprender comom crear un repositorio en la nube y poder clonarlo y modificarlo en computadora
